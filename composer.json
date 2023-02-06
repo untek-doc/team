@@ -1,0 +1,13 @@
+{
+	"name": "untek-doc/team",
+	"type": "library",
+	"keywords": [],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Yamshikov Vitaliy",
+			"email": "theyamshikov@yandex.ru"
+		}
+	],
+	"minimum-stability": "dev"
+}
