@@ -5,7 +5,6 @@
 * [Архитектура](architecture/README.md)
 * [Команда](team/README.md)
 * [Код](code/README.md)
-* [Безопасность](security/README.md)
 * [Шпаргалки](cheat-sheet/README.md)
 * [База данных](db/README.md)
 * [Linux](https://github.com/untek-doc/linux/blob/master/README.md)
