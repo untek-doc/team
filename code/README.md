@@ -14,3 +14,4 @@
 * [To Do](todo.md)
 * [Связность и связанность](cohesion-and-coupling.md)
 * [Обходной приём (костыль)](crutch.md)
+* [Исключения (Exception)](exception.md)
