@@ -44,12 +44,12 @@ Thumbs.db
 
 ```json
 {
-    "name": "example/yii2-extname",
-    "type": "yii2-extension",
+    "name": "example/extname",
+    "type": "extension",
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-             "woop\\extname\\": "src"
+             "Example\\Extname\\": "src"
          }
     }
 }
