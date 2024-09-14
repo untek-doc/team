@@ -3,8 +3,6 @@
 * [ООП](oop.md)
 * [SOLID](solid.md)
 * [GRASP](grasp.md)
-* Стиль кода
-  * [Пример](style-example.md)
 * [Качество кода](quality.md)
 * [PSR стандарты](psr.md)
 * [Тестирование](test.md)
