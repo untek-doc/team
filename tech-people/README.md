@@ -3,7 +3,7 @@
 
 * [Подбор персонала](staff-recruitment.md)
 
-## Дожности
+## Должности
 
 * [Разработчик](staff-requirements.md)
   * [Frontend](staff-frontend-requirements.md)
